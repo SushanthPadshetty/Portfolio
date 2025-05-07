@@ -1,2 +1,2 @@
 # Portfolio
-Portfolio Project
+Basic Portfolio Project using HTML, CSS, Javascript, and Bootstrap
